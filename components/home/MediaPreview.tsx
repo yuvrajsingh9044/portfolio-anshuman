@@ -35,7 +35,7 @@ const MediaPreview = () => {
                 <FaMicrophone className="text-3xl text-white" />
               </div>
               <div>
-                <h3 className="text-2xl font-bold text-cyan-400">Achiever's Ki Duniya</h3>
+                <h3 className="text-2xl font-bold text-cyan-400">Achiever&apos;s Ki Duniya</h3>
                 <p className="text-gray-400">Podcast</p>
               </div>
             </div>

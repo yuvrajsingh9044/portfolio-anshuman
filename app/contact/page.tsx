@@ -63,7 +63,7 @@ export default function Contact() {
             Get In <span className="text-cyan-400">Touch</span>
           </h1>
           <p className="text-gray-400 text-xl">
-            Let's discuss your project and bring your ideas to life
+            Let&apos;s discuss your project and bring your ideas to life
           </p>
         </motion.div>
 
@@ -213,7 +213,7 @@ export default function Contact() {
             <div className="glass-effect rounded-2xl p-8">
               <h2 className="text-2xl font-bold mb-4 text-cyan-400">Availability</h2>
               <p className="text-gray-300 mb-4">
-                I'm currently available for freelance projects and consulting opportunities.
+                I&apos;m currently available for freelance projects and consulting opportunities.
               </p>
               <div className="flex items-center gap-2">
                 <div className="w-3 h-3 rounded-full bg-green-500 animate-pulse"></div>

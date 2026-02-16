@@ -24,7 +24,7 @@ const CollaborationCTA = () => {
               viewport={{ once: true }}
               className="text-4xl md:text-5xl font-bold mb-6"
             >
-              Let's Build Your{' '}
+              Let&apos;s Build Your{' '}
               <span className="bg-gradient-to-r from-cyan-400 to-purple-600 bg-clip-text text-transparent">
                 Digital Success Story
               </span>
@@ -37,7 +37,7 @@ const CollaborationCTA = () => {
               transition={{ delay: 0.2 }}
               className="text-gray-300 text-lg mb-8 max-w-2xl mx-auto"
             >
-              Ready to transform your business with cutting-edge digital solutions? Let's discuss
+              Ready to transform your business with cutting-edge digital solutions? Let&apos;s discuss
               your project and create something amazing together.
             </motion.p>
 

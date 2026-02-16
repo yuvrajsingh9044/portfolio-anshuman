@@ -47,7 +47,7 @@ export default function About() {
             transition={{ delay: 0.2 }}
           >
             <h1 className="text-5xl md:text-6xl font-bold mb-6">
-              Hi, I'm <span className="text-cyan-400">Anshuman</span>
+              Hi, I&apos;m <span className="text-cyan-400">Anshuman</span>
             </h1>
             <p className="text-xl text-gray-300 leading-relaxed mb-6">
               A full-stack developer who believes in the power of technology to solve real problems
@@ -106,8 +106,8 @@ export default function About() {
             </h2>
             <div className="space-y-6 text-gray-300 leading-relaxed text-lg">
               <p className="italic text-cyan-400 text-center text-xl">
-                "Technology is not just about writing code—it's about understanding problems deeply
-                and crafting solutions that make a difference."
+                &quot;Technology is not just about writing code—it&apos;s about understanding problems deeply
+                and crafting solutions that make a difference.&quot;
               </p>
               <p>
                 I approach development with a mindset of continuous learning and improvement. Every
@@ -118,7 +118,7 @@ export default function About() {
                 My journey in tech has taught me that the best solutions come from understanding
                 both the technical constraints and the human needs behind every requirement. I
                 believe in writing clean code, documenting thoroughly, and always considering the
-                long-term implications of today's decisions.
+                long-term implications of today&apos;s decisions.
               </p>
               <p>
                 Beyond the technical skills, I value collaboration, clear communication, and the
@@ -317,7 +317,7 @@ export default function About() {
                     <div className="flex flex-wrap items-start justify-between mb-3">
                       <div>
                         <h3 className="text-xl font-bold text-cyan-400">Podcast Host</h3>
-                        <p className="text-purple-400">Achiever's Ki Duniya</p>
+                        <p className="text-purple-400">Achiever&apos;s Ki Duniya</p>
                       </div>
                       <span className="px-3 py-1 glass-effect rounded-lg text-sm text-cyan-400">
                         2024 - Present
@@ -402,7 +402,7 @@ export default function About() {
               <FaCode className="text-5xl text-pink-400 mx-auto mb-4" />
               <h3 className="text-xl font-bold mb-3 text-white">Clean Code Advocate</h3>
               <p className="text-gray-400 text-sm">
-                Code is read more than it's written. I prioritize readability, maintainability, and
+                Code is read more than it&apos;s written. I prioritize readability, maintainability, and
                 proper documentation.
               </p>
             </div>
@@ -421,7 +421,7 @@ export default function About() {
           </h2>
           <div className="max-w-3xl mx-auto glass-effect rounded-2xl p-8">
             <p className="text-gray-300 mb-6 text-center">
-              Growth never stops. Here's what I'm exploring right now:
+              Growth never stops. Here&apos;s what I&apos;m exploring right now:
             </p>
             <div className="space-y-3">
               {learningAreas.map((area, index) => (
@@ -483,11 +483,11 @@ export default function About() {
           className="glass-effect rounded-2xl p-8 md:p-12 text-center"
         >
           <h2 className="text-3xl font-bold mb-6">
-            Let's <span className="text-cyan-400">Connect</span>
+            Let&apos;s <span className="text-cyan-400">Connect</span>
           </h2>
           <p className="text-gray-300 text-lg leading-relaxed max-w-3xl mx-auto mb-8">
-            I'm always open to interesting conversations about technology, career growth, or
-            potential collaborations. Whether you're looking to work together or just want to chat
+            I&apos;m always open to interesting conversations about technology, career growth, or
+            potential collaborations. Whether you&apos;re looking to work together or just want to chat
             about tech, feel free to reach out.
           </p>
           <div className="flex flex-wrap justify-center gap-4">

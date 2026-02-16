@@ -75,7 +75,7 @@ export default function YouTube() {
             </div>
             <div className="flex-1 text-center md:text-left">
               <h1 className="text-4xl md:text-5xl font-bold mb-4">
-                Achiever's Ki <span className="text-red-500">Duniya</span>
+                Achiever&apos;s Ki <span className="text-red-500">Duniya</span>
               </h1>
               <p className="text-gray-300 text-lg mb-6">
                 A podcast and YouTube channel featuring tech tutorials, developer interviews, and industry insights to help you grow your career
@@ -130,7 +130,7 @@ export default function YouTube() {
           className="glass-effect rounded-2xl p-8 mb-16"
         >
           <h2 className="text-3xl font-bold mb-6 text-center">
-            What You'll <span className="text-red-500">Learn</span>
+            What You&apos;ll <span className="text-red-500">Learn</span>
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[
@@ -237,7 +237,7 @@ export default function YouTube() {
           className="text-center glass-effect rounded-2xl p-12"
         >
           <h2 className="text-3xl font-bold mb-4">
-            Don't Miss Out on <span className="text-red-500">New Content</span>
+            Don&apos;t Miss Out on <span className="text-red-500">New Content</span>
           </h2>
           <p className="text-gray-400 mb-6">
             Subscribe to get notified about new videos, tutorials, and interviews

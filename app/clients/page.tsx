@@ -471,10 +471,10 @@ export default function Clients() {
           className="glass-effect rounded-2xl p-12 text-center"
         >
           <h2 className="text-4xl font-bold mb-6">
-            Let's Build Your <span className="text-cyan-400">Digital Success Story</span>
+            Let&apos;s Build Your <span className="text-cyan-400">Digital Success Story</span>
           </h2>
           <p className="text-gray-400 text-lg mb-8 max-w-2xl mx-auto">
-            Ready to transform your business with cutting-edge digital solutions? Let's discuss
+            Ready to transform your business with cutting-edge digital solutions? Let&apos;s discuss
             your project and create something amazing together.
           </p>
           <div className="flex flex-wrap justify-center gap-4">

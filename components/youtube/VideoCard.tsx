@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { FaPlay } from 'react-icons/fa'
+import Image from 'next/image'
 import { YouTubeVideo, formatDate } from '@/lib/youtube'
 
 interface VideoCardProps {
@@ -20,10 +21,11 @@ export default function VideoCard({ video, index, onPlay }: VideoCardProps) {
       className="glass-effect rounded-xl overflow-hidden group cursor-pointer hover:scale-105 transition-transform"
     >
       <div className="relative h-48">
-        <img
+        <Image
           src={video.thumbnail}
           alt={video.title}
-          className="w-full h-full object-cover"
+          fill
+          className="object-cover"
           loading="lazy"
         />
         <div className="absolute inset-0 bg-black/50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
